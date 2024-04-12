@@ -2,3 +2,8 @@
     text-align: center;
     color:rebeccapurple;
 }
+
+.img-centrado {
+    margin: auto;
+    display: block;
+}
