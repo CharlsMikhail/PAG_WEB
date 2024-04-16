@@ -1,3 +1,12 @@
+body {
+    background-color: black;
+}
+
+button {
+    margin: auto;
+    display: block;
+}
+
 .text-centrado {
     text-align: center;
     color:rebeccapurple;
@@ -7,3 +16,4 @@
     margin: auto;
     display: block;
 }
+
